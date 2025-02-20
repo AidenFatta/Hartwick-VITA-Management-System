@@ -1,0 +1,2 @@
+This is a project made as apart of the final for a class at Hartwick College. It is an unofficial system made to combat issues with managing volunteer information and their experiences (Certifications, Trainings, etc.)
+The system allows for adding, editing, and deleting information about these volunteers through a Python GUI and SQLite3 database. It's also capable of sending emails about concerning expirations or new experience opportunities.
